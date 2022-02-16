@@ -27,7 +27,7 @@
 | 진행상황 | 주차 |                 진도                  |
 | :------: | :--: | :-----------------------------------: |
 |    o     |  1   | 0.Express (페이지 삭제기능 구현 까지) |
-|          |  2   |               0.Express               |
+|    o     |  2   |               0.Express               |
 |          |  3   |            1. 쿠키와 인증             |
 |          |  4   |            2. 세션과 인증             |
 |          |  5   |            3. Passport.js             |
@@ -42,7 +42,7 @@
 | 주차 | 발표자 |   발표 주제    |
 | :--: | :----: | :------------: |
 |  1   | 손병욱 | Cookie&Session |
-|  2   |        |                |
+|  2   | 권민영 |  HTTP & HTTPS  |
 |  3   |        |                |
 |  4   |        |                |
 |  5   |        |                |
@@ -54,7 +54,7 @@
 
 생각나는거 있음 더 추가해주세요!
 
-- [ ] Cookie & Session
+- [x] Cookie & Session
 - [ ] Web Server
 - [ ] CRUD
 - [ ] path parameter & query parameter
@@ -64,7 +64,7 @@
 - [ ] OSI 7 Layers
 - [ ] REST
 - [ ] TCP/UDP
-- [ ] HTTP & HTTPS
+- [x] HTTP & HTTPS
 - [ ] Web Socket
 - [ ] CI/CD
 - [ ] Singleton Pattern
