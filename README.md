@@ -62,7 +62,7 @@
 - [ ] CORS
 - [ ] DNS
 - [ ] OSI 7 Layers
-- [ ] REST
+- [x] REST
 - [ ] TCP/UDP
 - [x] HTTP & HTTPS
 - [ ] Web Socket
