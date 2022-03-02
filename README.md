@@ -28,9 +28,9 @@
 | :------: | :--: | :-----------------------------------: |
 |    o     |  1   | 0.Express (페이지 삭제기능 구현 까지) |
 |    o     |  2   |               0.Express               |
-|          |  3   |            1. 쿠키와 인증             |
-|          |  4   |            2. 세션과 인증             |
-|          |  5   |            3. Passport.js             |
+|    o     |  3   |            1. 쿠키와 인증             |
+|    o     |  4   |            2. 세션과 인증             |
+|    o     |  5   |            3. Passport.js             |
 |          |  6   |            4. 다중 사용자             |
 |          |  7   |            5. Google Login            |
 |          |  8   |           6. Facebook Login           |
@@ -43,8 +43,8 @@
 | :--: | :----: | :------------: |
 |  1   | 손병욱 | Cookie&Session |
 |  2   | 권민영 |  HTTP & HTTPS  |
-|  3   |        |                |
-|  4   |        |                |
+|  3   | 김윤경 |  DeadLock  |
+|  4   | 김정혁 |  REST  |
 |  5   |        |                |
 |  6   |        |                |
 |  7   |        |                |
@@ -72,7 +72,7 @@
 - [ ] TDD
 - [ ] Cache memory
 - [ ] TLS
-- [ ] DeadLock
+- [x] DeadLock
 - [ ] Race Condition
 - [ ] OOP
 - [ ] JSON
