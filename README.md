@@ -31,9 +31,9 @@
 |    o     |  3   |            1. 쿠키와 인증             |
 |    o     |  4   |            2. 세션과 인증             |
 |    o     |  5   |            3. Passport.js             |
-|          |  6   |            4. 다중 사용자             |
-|          |  7   |            5. Google Login            |
-|          |  8   |           6. Facebook Login           |
+|    o     |  6   |            4. 다중 사용자             |
+|    o     |  7   |            5. Google Login            |
+|    o     |  8   |           6. Facebook Login           |
 
 ## :honey_pot: 10분 테크톡
 
@@ -45,10 +45,10 @@
 |  2   | 권민영 |  HTTP & HTTPS  |
 |  3   | 김윤경 |  DeadLock  |
 |  4   | 김정혁 |  REST  |
-|  5   |        |                |
-|  6   |        |                |
-|  7   |        |                |
-|  8   |        |                |
+|  5   | 손병욱 | OSI 7 Layer |
+|  6   | 권민영 | path & query parameter |
+|  7   | 김윤경 | Cache Memory |
+|  8   | 김정혁 | Singleton Pattern |
 
 ## :city_sunset: 발표 주제
 
@@ -57,23 +57,23 @@
 - [x] Cookie & Session
 - [ ] Web Server
 - [ ] CRUD
-- [ ] path parameter & query parameter
+- [x] path parameter & query parameter
 - [ ] SSR(Server Side Rendering) vs CSR(Client Side Rendering)
 - [ ] CORS
 - [ ] DNS
-- [ ] OSI 7 Layers
+- [x] OSI 7 Layers
 - [x] REST
 - [ ] TCP/UDP
 - [x] HTTP & HTTPS
 - [ ] Web Socket
 - [ ] CI/CD
-- [ ] Singleton Pattern
+- [x] Singleton Pattern
 - [ ] MVC Pattern
 - [ ] TDD
-- [ ] Cache memory
+- [x] Cache memory
 - [ ] TLS
 - [x] DeadLock
-- [ ] Race Condition
+- [x] Race Condition
 - [ ] OOP
 - [ ] JSON
 - [ ] JWT
